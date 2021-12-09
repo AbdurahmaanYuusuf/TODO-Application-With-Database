@@ -1,0 +1,33 @@
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\obj\Release\net5.0\ToDo Application with Database.csproj.AssemblyReference.cache
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\obj\Release\net5.0\ToDo Application with Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\obj\Release\net5.0\ToDo Application with Database.AssemblyInfoInputs.cache
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\obj\Release\net5.0\ToDo Application with Database.AssemblyInfo.cs
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\obj\Release\net5.0\ToDo Application with Database.csproj.CoreCompileInputs.cache
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\ToDo Application with Database.exe
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\ToDo Application with Database.deps.json
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\ToDo Application with Database.runtimeconfig.json
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\ToDo Application with Database.runtimeconfig.dev.json
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\ToDo Application with Database.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\ref\ToDo Application with Database.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\ToDo Application with Database.pdb
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Humanizer.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Npgsql.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\bin\Release\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\obj\Release\net5.0\ToDo Application with Database.csproj.CopyComplete
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\obj\Release\net5.0\ToDo Application with Database.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\obj\Release\net5.0\ref\ToDo Application with Database.dll
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\obj\Release\net5.0\ToDo Application with Database.pdb
+C:\Users\stajyer\source\repos\ToDo Application\ToDo Application with Database\obj\Release\net5.0\ToDo Application with Database.genruntimeconfig.cache
